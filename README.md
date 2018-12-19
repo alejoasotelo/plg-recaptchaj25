@@ -1,7 +1,7 @@
 Plugin Recaptcha Oficial para Joomla 2.5 - Adaptado a recatpcha v3 - 2018
 ----------------------------
 
-Este plugin es una adaptación del plugin oficial recaptcha de joomla 2.5 para funcionar con Recaptcha v3. Como el joomla 2.5 no recibe más actualizaciones y hay sitios que aún utilizan dicha versión adapté el plugin para utilizar la libreria recaptcha v3.
+Este plugin es una adaptación del plugin oficial recaptcha de joomla 2.5 para funcionar con Recaptcha v3. Como joomla 2.5 no recibe más actualizaciones y hay sitios que aún utilizan dicha versión adapté el plugin para utilizar la libreria recaptcha v3.
 
 ¿Cómo se instala?
 ------------------------------
